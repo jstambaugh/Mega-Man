@@ -1,0 +1,6 @@
+WIDTH = 1200
+HEIGHT = 220
+FPS = 60
+ani = 4
+WHITE = (255,255,255)
+BLACK = (0,0,0)
